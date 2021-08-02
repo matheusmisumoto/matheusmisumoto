@@ -11,16 +11,11 @@ Website: https://matheusmisumoto.dev
 const profile = {
 	"name": "Matheus Misumoto",
 	"currentLocation":  "Santos, Brazil",
-	"mainSkills": [
-		"HTML5",
-		"CSS3",
-		"JavaScript",
-		"PHP",
-		"MySQL",
-		"SQL Server",
-		"MariaDB",
-		"WordPress"
-	],
+	"code": [ "HTML5", "CSS3", "JavaScript", "PHP", "MySQL", "SQL Server", "MariaDB", "WordPress" ],
+	"wordPress": [ "Theme Development" ],
+	"stillLearning": [ "Swift", "Flutter", "Java", "Haskell" ],
+	"otherThings": [ "Nginx", "CyberSecurity" ],
+	"hobby": [ "Photography", "Gaming" ]
 }
 ```
 
