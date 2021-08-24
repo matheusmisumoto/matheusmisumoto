@@ -23,6 +23,7 @@ const profile = {
 ```
 
 ### 📕 Latest Blog Posts (in Portuguese)
+- [Useful security settings for Nginx servers](https://matheusmisumoto.dev/tecnologia/desenvolvimento-web/seguranca-servidor-nginx.html)
 - [Wi-Fi Rental: using internet as a tourist in Japan](https://matheusmisumoto.dev/viagens/japao/usar-internet-japao-roteador-wifi.html)
 - [Blood center management web system using Haskell](https://matheusmisumoto.dev/tecnologia/desenvolvimento-web/blood-center-control-haskell.html)
 - [How to create a free WordPress-based website using Google Cloud](https://matheusmisumoto.dev/tecnologia/desenvolvimento-web/hospedagem-site-blog-wordpress-gratis-google-cloud.html)
