@@ -23,24 +23,7 @@ const profile = {
 ```
 
 ### 📕 Latest Blog Posts (in Portuguese)
-- [Academic projects using Angular](https://matheusmisumoto.dev/tecnologia/desenvolvimento-web/projetos-academicos-usando-angular.html)
-- [Useful security settings for Nginx servers](https://matheusmisumoto.dev/tecnologia/desenvolvimento-web/seguranca-servidor-nginx.html)
-- [Wi-Fi Rental: using internet as a tourist in Japan](https://matheusmisumoto.dev/viagens/japao/usar-internet-japao-roteador-wifi.html)
-- [Blood center management web system using Haskell](https://matheusmisumoto.dev/tecnologia/desenvolvimento-web/blood-center-control-haskell.html)
-- [How to create a free WordPress-based website using Google Cloud](https://matheusmisumoto.dev/tecnologia/desenvolvimento-web/hospedagem-site-blog-wordpress-gratis-google-cloud.html)
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ➡️ [More posts](https://matheusmisumoto.dev/blog)
-<!--
-**matheusmisumoto/matheusmisumoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
