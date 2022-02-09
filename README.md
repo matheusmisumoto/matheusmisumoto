@@ -1,24 +1,28 @@
 # Hi, I'm Matheus Misumoto! 👋
 
-Web developer and journalist.
+Front-end web developer from Brazil.
 
-Studying @ São Paulo State Technological College.
+🌎 Visit my website: https://matheusmisumoto.dev
 
-🌎 Website: https://matheusmisumoto.dev
+📄 Know about my experiences: https://www.linkedin.com/in/matheusmisumoto/?locale=en_US
 
 📫 Reach me: https://matheusmisumoto.dev/contato
-##
+
 ```javascript
 const profile = {
 	"name": "Matheus Misumoto",
-	"currentLocation":  "Santos, Brazil",
-	"code": [ "HTML5", "CSS3", "JavaScript", "PHP", "MySQL", "SQL Server", "MariaDB", "SEO" ],
-	"wordPress": [ "Theme Development" ],
-	"rookie": [ "Swift", "Flutter", "Java" ],
-	"tools": [ "VSCode", "Terminal", "Chrome", "Safari", "XCode" ],
-	"otherInterests": [ "Nginx", "CyberSecurity", "Angular" ],
-	"hobby": "Photography",
-	"funFact": "I went to Japan to learn more about their culture and diplomacy"
+	"currentLocation": "Santos, Brazil",
+	"currentlyStudying": "ReactJS",
+	"stack": { 
+		"frontEnd": [ "HTML5", "CSS3", "JavaScript", "ReactJS", "Angular", "SEO" ],
+		"backEnd": [ "PHP", "MySQL", "SQL Server", "MariaDB" ],
+		"other": [ "Nginx", "Linux", "Debian", "CyberSecurity" ],
+		"tools": [ "VSCode", "Terminal", "Chrome", "Safari", "XCode" ],
+	},
+	"wordPress": "Theme Development",
+	"rookie": [ "Swift", "Flutter", "Java", "GCP" ],
+	"hobby": [ "Photography", "Gaming" ],
+	"funFact": "I went to Japan to learn more about Japanese culture and diplomacy"
 }
 ```
 
