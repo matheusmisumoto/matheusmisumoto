@@ -12,7 +12,7 @@ Front-end web developer from Brazil.
 const profile = {
 	"name": "Matheus Misumoto",
 	"currentLocation": "Santos, Brazil",
-	"currentlyStudying": "ReactJS",
+	"currentlyStudying": [ "ReactJS", "Java" ],
 	"stack": { 
 		"frontEnd": [ "HTML5", "CSS3", "JavaScript", "ReactJS", "Angular", "SEO" ],
 		"backEnd": [ "PHP", "MySQL", "SQL Server", "MariaDB" ],
