@@ -28,11 +28,11 @@ const profile = {
 
 ### 📕 Latest Blog Posts (in Portuguese)
 <!-- BLOG-POST-LIST:START -->
+- [PWA com dados mundiais da COVID-19 em ReactJS](https://matheusmisumoto.dev/tecnologia/desenvolvimento-web/covid19-stats-reactjs.html)
 - [Conferência Internacional de Jovens Nikkeis na América Latina](https://matheusmisumoto.dev/cultura-japonesa/conferencia-jovens-nikkeis-america-latina.html)
 - [Tastin’: busca de restaurantes usando React e Google API](https://matheusmisumoto.dev/tecnologia/desenvolvimento-web/tastin-restaurant-finder-react-google-api.html)
 - [História entre Santos e Japão no projeto da Japan House](https://matheusmisumoto.dev/cultura-japonesa/historia-santos-japan-house-sao-paulo.html)
 - [Projetos acadêmicos usando Angular](https://matheusmisumoto.dev/tecnologia/desenvolvimento-web/projetos-academicos-usando-angular.html)
-- [Configurações úteis de segurança para servidores Nginx](https://matheusmisumoto.dev/tecnologia/desenvolvimento-web/seguranca-servidor-nginx.html)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [More posts](https://matheusmisumoto.dev/blog)
