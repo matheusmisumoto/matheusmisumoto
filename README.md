@@ -28,11 +28,11 @@ const profile = {
 
 ### 📕 Latest Blog Posts (in Portuguese)
 <!-- BLOG-POST-LIST:START -->
+- [Como mudar a logomarca na tela de login do WordPress](https://matheusmisumoto.dev/tecnologia/desenvolvimento-web/mudar-logo-login-wordpress.html)
 - [Tema Evolution disponível no diretório público do WordPress](https://matheusmisumoto.dev/portfolio/the-evolution-wordpress-theme.html)
 - [PWA com dados mundiais da COVID-19 em ReactJS](https://matheusmisumoto.dev/tecnologia/desenvolvimento-web/covid19-stats-reactjs.html)
 - [Conferência Internacional de Jovens Nikkeis na América Latina](https://matheusmisumoto.dev/cultura-japonesa/conferencia-jovens-nikkeis-america-latina.html)
 - [Tastin’: busca de restaurantes usando React e Google API](https://matheusmisumoto.dev/tecnologia/desenvolvimento-web/tastin-restaurant-finder-react-google-api.html)
-- [História entre Santos e Japão no projeto da Japan House](https://matheusmisumoto.dev/cultura-japonesa/historia-santos-japan-house-sao-paulo.html)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [More posts](https://matheusmisumoto.dev/blog)
