@@ -28,11 +28,11 @@ const profile = {
 
 ### 📕 Latest Blog Posts (in Portuguese)
 <!-- BLOG-POST-LIST:START -->
+- [Aprovação na DIO Campus Expert](https://matheusmisumoto.dev/portfolio/inicio-campus-expert-dio.html)
 - [Google Cloud como alternativa ao fim do Heroku Dynos gratuito](https://matheusmisumoto.dev/tecnologia/desenvolvimento-web/google-cloud-alternativa-heroku.html)
 - [Como mudar a logomarca na tela de login do WordPress](https://matheusmisumoto.dev/tecnologia/desenvolvimento-web/mudar-logo-login-wordpress.html)
 - [Tema Evolution disponível no diretório público do WordPress](https://matheusmisumoto.dev/portfolio/the-evolution-wordpress-theme.html)
 - [PWA com dados mundiais da COVID-19 em ReactJS](https://matheusmisumoto.dev/tecnologia/desenvolvimento-web/covid19-stats-reactjs.html)
-- [Conferência Internacional de Jovens Nikkeis na América Latina](https://matheusmisumoto.dev/cultura-japonesa/conferencia-jovens-nikkeis-america-latina.html)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [More posts](https://matheusmisumoto.dev/blog)
