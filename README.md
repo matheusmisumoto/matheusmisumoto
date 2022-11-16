@@ -15,12 +15,13 @@ const profile = {
 	"currentlyStudying": [ "ReactJS", "Java" ],
 	"stack": { 
 		"frontEnd": [ "HTML5", "CSS3", "JavaScript", "ReactJS", "Angular", "SEO" ],
-		"backEnd": [ "PHP", "MySQL", "SQL Server", "MariaDB" ],
-		"other": [ "Nginx", "Linux", "Debian", "CyberSecurity" ],
+		"backEnd": [ "PHP" ],
+		"database": [ "MySQL", "SQL Server", "MariaDB" ],
+		"other": [ "Nginx", "GCP", "Linux", "Debian", "CyberSecurity" ],
 		"tools": [ "VSCode", "Terminal", "Chrome", "Safari", "XCode" ],
 	},
 	"wordPress": "Theme Development",
-	"rookie": [ "Swift", "Flutter", "Java", "GCP" ],
+	"rookie": [ "Swift", "Flutter", "Java" ],
 	"hobby": [ "Photography", "Gaming" ],
 	"funFact": "I went to Japan to learn more about Japanese culture and diplomacy"
 }
