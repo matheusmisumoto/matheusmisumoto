@@ -29,11 +29,11 @@ const profile = {
 
 ### 📕 Latest Blog Posts (in Portuguese)
 <!-- BLOG-POST-LIST:START -->
+- [Participação como speaker na DIO Community Week](https://matheusmisumoto.dev/portfolio/speaker-dio-community-week-2022.html)
 - [Resolvendo problemas de exibição de caracteres em aplicações web com Java](https://matheusmisumoto.dev/tecnologia/desenvolvimento-web/solution-charset-issue-java.html)
 - [Campus Party Brasil 2022 e o resgate de uma internet mais humanizada](https://matheusmisumoto.dev/tecnologia/campus-party-brasil-2022.html)
 - [Como eu uso o Google Cloud para hospedar meu portfolio de graça](https://matheusmisumoto.dev/tecnologia/desenvolvimento-web/google-cloud-gratuito-hospedagem-portfolio.html)
 - [Aprovação na DIO Campus Expert](https://matheusmisumoto.dev/portfolio/inicio-campus-expert-dio.html)
-- [Google Cloud como alternativa ao fim do Heroku Dynos gratuito](https://matheusmisumoto.dev/tecnologia/desenvolvimento-web/google-cloud-alternativa-heroku.html)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [More posts](https://matheusmisumoto.dev/blog)
