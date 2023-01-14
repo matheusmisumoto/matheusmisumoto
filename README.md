@@ -20,7 +20,7 @@ const profile = {
 		"other": [ "Nginx", "Google Cloud", "Linux", "Debian", "CyberSecurity" ],
 		"tools": [ "VSCode", "Terminal", "Chrome", "Safari", "XCode" ],
 	},
-	"wordPress": "Theme Development",\
+	"wordPress": "Theme Development",
 	"hobby": [ "Photography", "Gaming" ],
 	"funFact": "I went to Japan to learn more about Japanese culture and diplomacy"
 }
