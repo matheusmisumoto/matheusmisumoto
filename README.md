@@ -28,11 +28,11 @@ const profile = {
 
 ### 📕 Latest Blog Posts (in Portuguese)
 <!-- BLOG-POST-LIST:START -->
+- [ChatGPT e o uso da inteligência artificial além do hype](https://matheusmisumoto.dev/tecnologia/chatgpt-inteligencia-artificial-hype.html)
 - [Usando ETag para otimizar cache em páginas PHP dinâmicas](https://matheusmisumoto.dev/tecnologia/desenvolvimento-web/etag-dynamic-php-wordpress.html)
 - [Lista de tarefas usando React e Redux](https://matheusmisumoto.dev/portfolio/to-do-list-react-redux.html)
 - [Migrando uma aplicação Haskell para o Google Cloud Run](https://matheusmisumoto.dev/tecnologia/desenvolvimento-web/haskell-yesod-google-cloud-run.html)
 - [Participação como speaker na DIO Community Week](https://matheusmisumoto.dev/portfolio/speaker-dio-community-week-2022.html)
-- [Resolvendo problemas de exibição de caracteres em aplicações web com Java](https://matheusmisumoto.dev/tecnologia/desenvolvimento-web/solution-charset-issue-java.html)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [More posts](https://matheusmisumoto.dev/blog)
