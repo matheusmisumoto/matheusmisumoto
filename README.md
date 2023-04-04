@@ -17,7 +17,7 @@ const profile = {
 		"frontEnd": [ "HTML5", "CSS3", "JavaScript", "ReactJS", "Angular", "SEO" ],
 		"backEnd": [ "PHP", "Java", "SpringBoot" ],
 		"database": [ "MySQL", "SQL Server", "MariaDB" ],
-		"other": [ "Nginx", "Google Cloud", "Linux", "Debian", "CyberSecurity" ],
+		"infrastructure": [ "Nginx", "Google Cloud", "Linux", "Debian", "CyberSecurity" ],
 		"tools": [ "VSCode", "Terminal", "Chrome", "Safari", "XCode" ],
 	},
 	"wordPress": "Theme Development",
