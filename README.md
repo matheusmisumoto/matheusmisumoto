@@ -28,11 +28,11 @@ const profile = {
 
 ### 📕 Latest Blog Posts (in Portuguese)
 <!-- BLOG-POST-LIST:START -->
+- [Refatorando projeto para nova API do Firebase com React](https://matheusmisumoto.dev/tecnologia/desenvolvimento-web/refactor-firebase-sdk-v9.html)
 - [Como configurar o servidor Nginx para aplicações Angular](https://matheusmisumoto.dev/tecnologia/desenvolvimento-web/nginx-angular-routes.html)
 - [ChatGPT e o uso da inteligência artificial além do hype](https://matheusmisumoto.dev/tecnologia/chatgpt-inteligencia-artificial-hype.html)
 - [Usando ETag para otimizar cache em páginas PHP dinâmicas](https://matheusmisumoto.dev/tecnologia/desenvolvimento-web/etag-dynamic-php-wordpress.html)
 - [Lista de tarefas usando React e Redux](https://matheusmisumoto.dev/portfolio/to-do-list-react-redux.html)
-- [Migrando uma aplicação Haskell para o Google Cloud Run](https://matheusmisumoto.dev/tecnologia/desenvolvimento-web/haskell-yesod-google-cloud-run.html)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [More posts](https://matheusmisumoto.dev/blog)
