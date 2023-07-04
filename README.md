@@ -20,11 +20,14 @@ const profile = {
 		"infrastructure": [ "Nginx", "Google Cloud", "Linux", "Debian", "CyberSecurity" ],
 		"tools": [ "VSCode", "Terminal", "Chrome", "Safari", "XCode" ],
 	},
+	"certification": [ "Google Cloud - Associate Cloud Engineer" ],
 	"wordPress": "Theme Development",
 	"hobby": [ "Photography", "Gaming" ],
 	"funFact": "I went to Japan to learn more about Japanese culture and diplomacy"
 }
 ```
+
+![Google Cloud Certified - Associate Cloud Engineer](https://images.credential.net/badge/tiny/d8myr1yt_1688446886310_badge.png)
 
 ### 📕 Latest Blog Posts (in Portuguese)
 <!-- BLOG-POST-LIST:START -->
