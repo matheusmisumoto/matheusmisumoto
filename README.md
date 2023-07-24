@@ -31,11 +31,11 @@ const profile = {
 
 ### 📕 Latest Blog Posts (in Portuguese)
 <!-- BLOG-POST-LIST:START -->
+- [Inscrições abertas para o programa de visita para descendentes ao Japão](https://matheusmisumoto.dev/cultura-japonesa/inscricoes-programa-visita-japao-2023.html)
 - [Criando blocos para sites em WordPress](https://matheusmisumoto.dev/portfolio/criando-blocos-wordpress.html)
 - [Certificado de Associate Cloud Engineer do Google Cloud](https://matheusmisumoto.dev/portfolio/certificado-google-cloud-associate-cloud-engineer.html)
 - [Habilitando protocolo HTTP/3 em servidores Nginx](https://matheusmisumoto.dev/tecnologia/desenvolvimento-web/habilitando-http3-nginx.html)
 - [Usando compressão Brotli no Nginx](https://matheusmisumoto.dev/tecnologia/desenvolvimento-web/brotli-nginx.html)
-- [Como ativar animações durante o scroll com JavaScript puro](https://matheusmisumoto.dev/tecnologia/desenvolvimento-web/animacao-scroll-javascript-vanilla.html)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [More posts](https://matheusmisumoto.dev/blog)
