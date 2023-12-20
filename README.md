@@ -31,11 +31,11 @@ const profile = {
 
 ### 📕 Latest Blog Posts (in Portuguese)
 <!-- BLOG-POST-LIST:START -->
+- [FitLogr: projeto de aplicativo web para registro de treinos na academia](https://matheusmisumoto.dev/portfolio/fitlogr-workout-tracking-web-app.html)
 - [Falando sobre Google Cloud no grupo de estudos do Google Developers Group de Santos](https://matheusmisumoto.dev/tecnologia/desenvolvimento-web/talk-google-developers-group-santos.html)
 - [Criando blocos para sites em WordPress](https://matheusmisumoto.dev/portfolio/criando-blocos-wordpress.html)
 - [Programa de visita para descendentes ao Japão recebe inscrições](https://matheusmisumoto.dev/cultura-japonesa/inscricoes-programa-visita-japao-2023.html)
 - [Certificado de Associate Cloud Engineer do Google Cloud](https://matheusmisumoto.dev/portfolio/certificado-google-cloud-associate-cloud-engineer.html)
-- [Habilitando protocolo HTTP/3 em servidores Nginx](https://matheusmisumoto.dev/tecnologia/desenvolvimento-web/habilitando-http3-nginx.html)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [More posts](https://matheusmisumoto.dev/blog)
