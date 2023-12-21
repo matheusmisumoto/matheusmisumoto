@@ -31,7 +31,7 @@ const profile = {
 
 ### 📕 Latest Blog Posts (in Portuguese)
 <!-- BLOG-POST-LIST:START -->
-- [FitLogr: projeto de aplicativo web para registro de treinos na academia](https://matheusmisumoto.dev/portfolio/fitlogr-workout-tracking-web-app.html)
+- [FitLogr: aplicativo web para registro de treinos na academia](https://matheusmisumoto.dev/portfolio/fitlogr-workout-tracking-web-app.html)
 - [Falando sobre Google Cloud no grupo de estudos do Google Developers Group de Santos](https://matheusmisumoto.dev/tecnologia/desenvolvimento-web/talk-google-developers-group-santos.html)
 - [Criando blocos para sites em WordPress](https://matheusmisumoto.dev/portfolio/criando-blocos-wordpress.html)
 - [Programa de visita para descendentes ao Japão recebe inscrições](https://matheusmisumoto.dev/cultura-japonesa/inscricoes-programa-visita-japao-2023.html)
