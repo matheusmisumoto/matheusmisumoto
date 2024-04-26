@@ -1,10 +1,14 @@
 # Hi, I'm Matheus Misumoto! 👋
 
-Front-end web developer from Brazil.
+Software developer from Brazil. Focusing on front end, but doing back end as well.
 
-🌎 Visit my website: https://matheusmisumoto.dev
+Associate Cloud Engineer [certified by Google Cloud](https://www.credly.com/badges/b5667f85-956f-4ce0-91ac-7d72b84ea4c6/public_url). Graduated in Internet Systems at São Paulo State Technological College in Santos. Campus Expert alumnus from the edtech platform DIO.
 
-📄 Know about my experiences: https://www.linkedin.com/in/matheusmisumoto/?locale=en_US
+🌎 Visit my website: 
+- English: https://matheusmisumoto.dev/about
+- Português: https://matheusmisumoto.dev
+
+📄 Learn about my experiences: https://www.linkedin.com/in/matheusmisumoto/?locale=en_US
 
 📫 Reach me: https://matheusmisumoto.dev/contato
 
@@ -14,20 +18,25 @@ const profile = {
 	"currentLocation": "Santos, Brazil",
 	"currentlyStudying": [ "React", "Java" ],
 	"stack": { 
-		"frontEnd": [ "HTML5", "CSS3", "JavaScript", "React", "Next.js", "Angular", "SEO" ],
-		"backEnd": [ "PHP", "Java", "SpringBoot" ],
+		"frontEnd": [ "HTML5", "CSS3", "JavaScript", "React", "Next.js", "SEO" ],
+		"backEnd": [ "Java", "SpringBoot", "PHP" ],
 		"database": [ "MySQL", "SQL Server", "MariaDB" ],
 		"infrastructure": [ "Nginx", "Google Cloud", "Linux", "Debian", "CyberSecurity" ],
 		"tools": [ "VSCode", "Terminal", "Chrome", "Safari", "XCode" ],
 	},
-	"certification": [ "Google Cloud - Associate Cloud Engineer" ],
+	"certifications": [ 
+		{ 
+			"issuer": "Google Cloud",
+			"title": "Associate Cloud Engineer"
+ 		}
+	],
 	"wordPress": "Theme Development",
 	"hobby": [ "Photography", "Gaming" ],
 	"funFact": "I went to Japan to learn more about Japanese culture and diplomacy"
 }
 ```
 
-![Google Cloud Certified - Associate Cloud Engineer](https://images.credential.net/badge/tiny/d8myr1yt_1688446886310_badge.png)
+![Google Cloud Certified - Associate Cloud Engineer](https://github.com/matheusmisumoto/matheusmisumoto/assets/49180175/6e4a3ce4-f41d-481b-a55f-22d56464ed78)
 
 ### 📕 Latest Blog Posts (in Portuguese)
 <!-- BLOG-POST-LIST:START -->
