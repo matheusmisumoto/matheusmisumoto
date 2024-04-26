@@ -14,25 +14,25 @@ Associate Cloud Engineer [certified by Google Cloud](https://www.credly.com/badg
 
 ```javascript
 const profile = {
-	"name": "Matheus Misumoto",
-	"currentLocation": "Santos, Brazil",
-	"currentlyStudying": [ "React", "Java" ],
-	"stack": { 
-		"frontEnd": [ "HTML5", "CSS3", "JavaScript", "React", "Next.js", "SEO" ],
-		"backEnd": [ "Java", "SpringBoot", "PHP" ],
-		"database": [ "MySQL", "SQL Server", "MariaDB" ],
-		"infrastructure": [ "Nginx", "Google Cloud", "Linux", "Debian", "CyberSecurity" ],
-		"tools": [ "VSCode", "Terminal", "Chrome", "Safari", "XCode" ],
-	},
-	"certifications": [ 
-		{ 
-			"issuer": "Google Cloud",
-			"title": "Associate Cloud Engineer"
- 		}
-	],
-	"wordPress": "Theme Development",
-	"hobby": [ "Photography", "Gaming" ],
-	"funFact": "I went to Japan to learn more about Japanese culture and diplomacy"
+    "name": "Matheus Misumoto",
+    "currentLocation": "Santos, Brazil",
+    "currentlyStudying": [ "React", "Java" ],
+    "stack": { 
+        "frontEnd": [ "HTML5", "CSS3", "JavaScript", "React", "Next.js", "SEO" ],
+        "backEnd": [ "Java", "SpringBoot", "PHP" ],
+        "database": [ "MySQL", "SQL Server", "MariaDB" ],
+        "infrastructure": [ "Nginx", "Google Cloud", "Linux", "Debian", "CyberSecurity" ],
+        "tools": [ "VSCode", "Terminal", "Chrome", "Safari", "XCode" ],
+    },
+    "certifications": [ 
+        { 
+            "issuer": "Google Cloud",
+            "title": "Associate Cloud Engineer"
+        }
+    ],
+    "wordPress": "Theme Development",
+    "hobby": [ "Photography", "Gaming", "Lifting" ],
+    "funFact": "I went to Japan to learn more about Japanese culture and diplomacy"
 }
 ```
 
