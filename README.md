@@ -40,11 +40,11 @@ const profile = {
 
 ### 📕 Latest Blog Posts (in Portuguese)
 <!-- BLOG-POST-LIST:START -->
+- [Inteligência artificial ganha destaque no Google I/O Extended 2024](https://matheusmisumoto.dev/tecnologia/google-io-extended-santos-2024.html)
 - [Novo visual do site da Associação Brasileira de Ex-Bolsistas Gaimusho Kenshusei](https://matheusmisumoto.dev/portfolio/associacao-ex-bolsistas-gaimusho-kenshusei.html)
 - [Como enviar e-mails de uma VM com a porta 25 bloqueada](https://matheusmisumoto.dev/tecnologia/desenvolvimento-web/enviar-email-maquina-virtual-porta-25-bloqueada.html)
 - [Suporte a IPv6 no portfolio](https://matheusmisumoto.dev/tecnologia/desenvolvimento-web/ipv6-support.html)
 - [Criando uma rota de API em Java para login usando oAuth do GitHub](https://matheusmisumoto.dev/tecnologia/desenvolvimento-web/oauth-login-with-github-java-api.html)
-- [Usando inteligência artificial como ferramenta em projetos de programação](https://matheusmisumoto.dev/reflexoes/inteligencia-artificial-programacao.html)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [More posts](https://matheusmisumoto.dev/blog)
