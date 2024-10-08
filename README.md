@@ -1,6 +1,6 @@
 # Hi, I'm Matheus Misumoto! 👋
 
-Software developer from Brazil. Focusing on front end, but doing back end as well.
+Software engineer from Brazil, currently working at HP. Focusing on front end, but doing back end as well.
 
 Associate Cloud Engineer [certified by Google Cloud](https://www.credly.com/badges/b5667f85-956f-4ce0-91ac-7d72b84ea4c6/public_url). Graduated in Internet Systems at São Paulo State Technological College in Santos. Campus Expert alumnus from the edtech platform DIO.
 
