@@ -16,7 +16,7 @@ Associate Cloud Engineer [certified by Google Cloud](https://www.credly.com/badg
 const profile = {
     "name": "Matheus Misumoto",
     "currentLocation": "Santos, Brazil",
-    "currentlyStudying": [ "React", "Java" ],
+    "currentlyStudying": [ "Go", "React", "Java" ],
     "stack": { 
         "frontEnd": [ "HTML5", "CSS3", "JavaScript", "React", "Next.js", "SEO" ],
         "backEnd": [ "Java", "SpringBoot", "PHP" ],
