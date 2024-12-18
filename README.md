@@ -40,11 +40,11 @@ const profile = {
 
 ### 📕 Latest Blog Posts (in Portuguese)
 <!-- BLOG-POST-LIST:START -->
+- [Participação como palestrante no DevFest Santos 2024](https://matheusmisumoto.dev/tecnologia/devfest-santos-2024.html)
 - [Automatize a atualização do Brotli em servidores Nginx](https://matheusmisumoto.dev/tecnologia/desenvolvimento-web/brotli-update-automation-nginx.html)
 - [Google I/O Extended 2024 coloca inteligência artificial em destaque](https://matheusmisumoto.dev/tecnologia/google-io-extended-santos-2024.html)
 - [Novo visual do site da Associação Brasileira de Ex-Bolsistas Gaimusho Kenshusei](https://matheusmisumoto.dev/portfolio/associacao-ex-bolsistas-gaimusho-kenshusei.html)
 - [Como enviar e-mails de uma VM com a porta 25 bloqueada](https://matheusmisumoto.dev/tecnologia/desenvolvimento-web/enviar-email-maquina-virtual-porta-25-bloqueada.html)
-- [Suporte a IPv6 no portfolio](https://matheusmisumoto.dev/tecnologia/desenvolvimento-web/ipv6-support.html)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [More posts](https://matheusmisumoto.dev/blog)
